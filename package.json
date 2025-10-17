@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Srinivas-tharun12344.github.io/fronedprojectfinal/",
+  "homepage": "https://Srinivas-tharun12344.github.io/cicdlabproject/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
